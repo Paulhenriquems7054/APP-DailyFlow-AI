@@ -1,0 +1,8 @@
+{
+  "name": "DailyFlow AI",
+  "description": "An intelligent productivity and habit mentor that uses behavioral psychology and AI to structure your day and foster sustainable habits.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
